@@ -1,0 +1,8 @@
+prefix=/home/uos/catkin_ws2/install
+
+Name: basic_movement
+Description: Description of basic_movement
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs control_msgs
